@@ -1,0 +1,5 @@
+vim-clang-format
+vim-buftabline
+vim-nerdree
+vim-tagbar
+vim-youcompleteme
